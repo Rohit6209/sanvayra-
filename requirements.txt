@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+python-multipart
+PyJWT
+pypdf
+python-docx
+python-pptx
